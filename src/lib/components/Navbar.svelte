@@ -1,8 +1,8 @@
 <script>
     let links = [
       { name: "Vampires", href: "/", icon: "/icons/vampiro.png" },
-      { name: "Caixão", href: "/about", icon: "/icons/casa-assombrada.png" },
-      { name: "Quiz", href: "/contact", icon: "/icons/morcegos.png" }
+      { name: "Caixão", href: "/caixao", icon: "/icons/casa-assombrada.png" },
+      { name: "Quiz", href: "/quiz", icon: "/icons/morcegos.png" }
     ];
   </script>
   
