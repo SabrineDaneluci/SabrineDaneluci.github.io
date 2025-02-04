@@ -1,38 +1,9 @@
-# sv
+Descrição: 
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Apresentação: O projeto tem como tema principal Vampiros que é um assunto que eu me interesso desde criança. Acho a ideia de existir seres assim muito curiosa e divertida.
+A página inicial (Vampires), conta brevemente a história e algumas curiosidades dos vampiros.
+A segunda página (Caixao), serve para montar o seu próprio vampiro escolhendo algumas caracteristicas.
+A terceira e última (Quiz), é um questionário para descobrir qual vampiro do cinema, literatura etc você "é".
+Espero que goste um tiquinho, professor
+Link: https://github.com/SabrineDaneluci/SabrineDaneluci.github.io
